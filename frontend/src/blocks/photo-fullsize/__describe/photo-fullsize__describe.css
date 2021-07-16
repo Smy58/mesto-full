@@ -1,0 +1,13 @@
+.photo-fullsize__describe{
+    font-family: Inter, "Arial", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+
+    color: #FFFFFF;
+
+    margin: 0;
+    position: absolute;
+    bottom: -25px;
+}

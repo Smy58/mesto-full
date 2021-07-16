@@ -1,0 +1,22 @@
+.element__trash{
+    position: absolute;
+    padding: 0;
+    top: 18px;
+    right: 15px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: block;
+}
+
+.element__trash:focus{
+    outline: none;
+}
+
+.element__trash:hover{
+    opacity: 0.6;
+}
+
+.element__trash_hidden{
+    display: none;
+}

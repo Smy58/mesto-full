@@ -1,0 +1,7 @@
+.edit-form_view_hidden{
+    height: 0;
+    visibility: hidden;
+    opacity: 0;
+
+    transition: opacity 1s ease-in-out, visibility 1s ease-in-out, height 0s ease-in-out 1s;
+}

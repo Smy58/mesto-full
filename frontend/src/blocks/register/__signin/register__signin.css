@@ -1,0 +1,17 @@
+.register__signin{
+    font-family: Inter, "Arial", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: white;
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 15px;
+}
+
+.register__signin p {
+    margin: 0;
+}

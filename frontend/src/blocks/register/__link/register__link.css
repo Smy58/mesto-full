@@ -1,0 +1,18 @@
+.register__link{
+    height: 50px;
+    width: 358px;
+    background: #FFFFFF;
+    border-radius: 2px;
+
+    font-family: Inter, "Arial", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21,78px;
+    text-align: center;
+
+}
+
+p .register__link:hover{
+    opacity: 0.6;
+}

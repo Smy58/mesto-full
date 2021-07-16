@@ -1,0 +1,10 @@
+@media screen and (max-width: 940px){
+    .form__close-icon{
+        width: 37px;
+        height: 37px;
+    }
+}
+
+.form__close-icon:hover{
+    opacity: 0.6;
+}

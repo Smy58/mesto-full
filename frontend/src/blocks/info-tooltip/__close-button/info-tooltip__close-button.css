@@ -1,0 +1,10 @@
+.info-tooltip__close-button{
+    padding: 0;
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    cursor: pointer;
+    z-index: 3;
+    background-color: transparent;
+    border: none;
+}
