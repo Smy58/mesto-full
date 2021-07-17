@@ -12,3 +12,9 @@
 
 `npm run start` — запускает сервер   
 `npm run dev` — запускает сервер с hot-reload
+
+## Домены и IP
+domainname.students.nomoredomains.monster - frontend
+backend.students.nomoredomains.monster - backend
+
+178.154.241.218
